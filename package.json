@@ -22,6 +22,8 @@
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
     "@ng-toolkit/universal": "^1.1.21",
+    "express": "^4.17.3",
+    "path": "^0.12.7",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "typescript": "~4.5.2",
